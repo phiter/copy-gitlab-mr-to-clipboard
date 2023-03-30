@@ -27,7 +27,7 @@ The emojis are:
 
 The final message looks like this on Slack: (if you have the emojis). If there isn't a JIRA ID, the "Open on Jira" part isn't shown:
 
-> <img src="https://slackmojis.com/emojis/6040-partymerge/download" alt="partymerge" width="18px" />  [JIRA-765](<https://company.atlassian.net/browse/JIRA-765> "Issue in Jira"): fix a bug created by a worse version of me  
+> <img src="https://slackmojis.com/emojis/6040-partymerge/download" alt="partymerge" width="18px" />  [JIRA-765](<https://company.atlassian.net/browse/JIRA-765> "Issue in Jira"): fix a bug I created when I was drunk  
 > [**Files changed:**](https://gitlab.com/namespace/repository/-/merge_requests/1063/diffs) 17 | [**Commits:**](https://gitlab.com/namespace/repository/-/merge_requests/1063/commits) 9 | **Project:** [namespace/repository](https://gitlab.com/namespace/repository)  
 > <img src="https://slackmojis.com/emojis/1402-gitlab/download" alt="gitlab" width="18px" />  [**Open on GitLab**](https://gitlab.com/namespace/repository/-/merge_requests/1063) &nbsp;&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/38054-atlassian-jira/download" alt="jira" width="18px" />  [**Open on Jira**](https://company.atlassian.net/browse/JIRA-765)
 
@@ -39,7 +39,7 @@ Looks like this on Slack:
 This is the full markdown that is copied in a MR that contains a JIRA ticket ID in the title. 
 <details>
 ```
-    > :partymerge:  [JIRA-765](<https://company.atlassian.net/browse/JIRA-765> "Issue in Jira"): fix a bug created by a worse version of me
+    > :partymerge:  [JIRA-765](<https://company.atlassian.net/browse/JIRA-765> "Issue in Jira"): fix a bug I created when I was drunk
     > [**Files changed:**](https://gitlab.com/namespace/repository/-/merge_requests/1063/diffs) 17 | [**Commits:**](https://gitlab.com/namespace/repository/-/merge_requests/1063/commits) 9 | **Project:** [namespace/repository](https://gitlab.com/namespace/repository)  
     > :gitlab:  [**Open on GitLab**](https://gitlab.com/namespace/repository/-/merge_requests/1063) &nbsp;&nbsp;&nbsp;:jira:  [**Open on Jira**](https://company.atlassian.net/browse/JIRA-765)
 ```
