@@ -1,6 +1,9 @@
 # copy-gitlab-mr-to-clipboard
 Creates a formatted message for slack from the gitlab MR page.
 
+[<img src="https://img.shields.io/badge/Click to install-blue" height="30px" />](gitlab-mr-to-slack.user.js?raw=1)
+
+
 ![gitlab](gitlab.gif)
 
 ![slack](slack.gif)
