@@ -18,8 +18,8 @@ The emojis are:
 | Name | Image |
 | - | - |
 | [:partymerge:](https://slackmojis.com/emojis/6040-partymerge) | <img src="https://slackmojis.com/emojis/6040-partymerge/download" alt="partymerge" width="18px" /> |
-| [:gitlab](https://slackmojis.com/emojis/1402-gitlab) | <img src="https://slackmojis.com/emojis/1402-gitlab/download" alt="gitlab" width="18px" /> |
-| [:jira](https://slackmojis.com/emojis/38054-atlassian-jira) | <img src="https://slackmojis.com/emojis/38054-atlassian-jira/download" alt="jira" width="18px" /> |
+| [:gitlab:](https://slackmojis.com/emojis/1402-gitlab) | <img src="https://slackmojis.com/emojis/1402-gitlab/download" alt="gitlab" width="18px" /> |
+| [:jira:](https://slackmojis.com/emojis/38054-atlassian-jira) | <img src="https://slackmojis.com/emojis/38054-atlassian-jira/download" alt="jira" width="18px" /> |
 
 
 The final message looks like this on Slack: (if you have the emojis). If there isn't a JIRA ID, the "Open on Jira" part isn't shown:
