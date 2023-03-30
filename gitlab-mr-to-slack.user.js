@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Copy a template from GitLab to paste on Slack
 // @author       Phiter
-// @match        https://*git*/*/-/merge_requests/*
+// @match        https://*/**/-/merge_requests/**
 // @homepage     https://github.com/phiter/copy-gitlab-mr-to-clipboard
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
