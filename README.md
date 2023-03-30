@@ -14,7 +14,7 @@ Creates a formatted message for slack from the gitlab MR page.
 
 The message is created in markdown and converted to HTML, and it can be pasted directly into your slack chat.
 
-It uses three emojis (my company's Slack has them). You can either remove the emojis or include them in your slack directory.
+It uses three emojis (my company's Slack has them). You can either remove the emojis (by editing the script code) or include them in your slack directory.
 
 The emojis are:
 
