@@ -35,8 +35,10 @@
         const converter = new showdown.Converter();
         const title = $title.innerHTML;
         const issueUrl = document.querySelector('[data-reference-type="external_issue"]')?.href;
-        const projectName = document.querySelector('[data-qa-selector="sidebar_menu_link"]').getAttribute('href').substring(1);
-        const projectHref = document.querySelector('[data-qa-selector="sidebar_menu_link"]').href;
+        // support new navigation interface
+        const menuLink = document.querySelector('[data-qa-selector="sidebar_menu_link"]') || document.querySelector('[data-qa-selector="nav_item_link"][data-track-label="project_overview"]');
+        const projectName = menuLink.getAttribute('href').substring(1);
+        const projectHref = menuLink.href;
         const pageUrl = document.querySelector('[data-action="show"]').href;
         const changesUrl = document.querySelector('[data-action="diffs"]').href;
         const commitsUrl = document.querySelector('[data-action="commits"]').href;
